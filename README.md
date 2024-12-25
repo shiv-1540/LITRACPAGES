@@ -27,8 +27,7 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 
 ### Frontend:
 - React.js
-- HTML5
-- CSS3
+- Tailwind CSS 
 - JavaScript
 
 ### Backend:
@@ -43,6 +42,7 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 - Postman
 - MySQL Workbench
 - VS Code
+![WhatsApp Image 2024-07-01 at 10 19 20_cad5ba29](https://github.com/user-attachments/assets/54b3931c-58d8-4190-8c08-60593dafd8c1)
 
 ---
 
@@ -50,7 +50,8 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 
 ### ER Diagram
 
-![Database ER Diagram](path/to/er-diagram.png) <!-- Replace with the actual image path -->
+![WhatsApp Image 2024-06-23 at 22 04 37_fe81ccd2](https://github.com/user-attachments/assets/63b5bd88-0f19-49fc-a15b-bba6f0677fc8)
+
 
 ### Table Schema
 
@@ -79,10 +80,27 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 ## 🌐 Screenshots
 
 ### Homepage:
-![Homepage Screenshot](path/to/homepage-screenshot.png) <!-- Replace with actual image path -->
+![Homepage Screenshot](https://github.com/user-attachments/assets/9220d228-d278-4492-9c98-3e04f4b5821b)
+
+![HomePage](https://github.com/user-attachments/assets/cb6a3b31-278c-4aa4-b3ab-6d282ab55fa0)
+
+
+### ProfilePage:
+![Profile](https://github.com/user-attachments/assets/0c6263d0-eb4c-4766-9b87-a3cc3327967e)
+
 
 ### Admin Dashboard:
-![Admin Dashboard Screenshot](path/to/admin-dashboard-screenshot.png) <!-- Replace with actual image path -->
+![WhatsApp Image 2024-09-19 at 18 39 04_f8159ac1](https://github.com/user-attachments/assets/4faeccbe-ecc1-44fc-ba37-9c178d9cb9c9)
+
+![t](path/to/admin-dashboard-screenshot.png) <!-- Replace with actual image path -->
+
+![Admin Dashboard Screensho](https://github.com/user-attachments/assets/ebf68abd-a7e4-4399-a2b6-83ebcd6822e4)
+
+![WhatsApp Image 2024-09-19 at 18 39 05_dfbce714](https://github.com/user-attachments/assets/e3a054a3-ad42-4821-952c-b4a7f83ed9ba)
+![WhatsApp Image 2024-09-19 at 18 39 04_1045c74e](https://github.com/user-attachments/assets/135060bc-6fe0-4a4d-a28e-61ae08fba966)
+
+
+
 
 ---
 
@@ -108,19 +126,20 @@ A heartfelt thanks to:
 
 ## 🌟 Conclusion
 
-This internship has been a transformative learning experience, solidifying our passion for web development and equipping us with essential skills for future projects. We look forward to applying these insights to new challenges and making a positive impact in the field of technology.
+This internship has been a transformative learning experience, solidifying my passion for web development and equipping us with essential skills for future projects. We look forward to applying these insights to new challenges and making a positive impact in the field of technology.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MITAOE License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🤝 Connect with Us
+## 🤝 Connect with Me
 
 Feel free to reach out for collaboration or to learn more about the project:
 
-- **Email**: [shivshankar.ghyar@example.com](mailto:shivshankar.ghyar@example.com)
-- **GitHub**: [GitHub Profile](https://github.com/ShivshankarGhyar) <!-- Replace with actual GitHub profile URL -->
+- **Email**: [shivghyar538@gmail.com](mailto:shivghyar538@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/shiv-1540)
+- **Linkdein**: [Linkdein Profile]([https://github.com/shiv-1540](https://www.linkedin.com/in/shivshankar-ghyar-870972289))
