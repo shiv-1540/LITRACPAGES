@@ -26,11 +26,11 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 ## 🔧 Technologies & Tools Used
 
 ### Frontend:
-- React.js![th](https://github.com/user-attachments/assets/76f1e264-33f8-4c54-bfe9-b200e327ab60)
+- React.js![th]   (https://github.com/user-attachments/assets/76f1e264-33f8-4c54-bfe9-b200e327ab60)
 
-- Tailwind CSS ![th](https://github.com/user-attachments/assets/3b246c27-4196-4d90-93aa-13841ce0da22)
+- Tailwind CSS ![th]  (https://github.com/user-attachments/assets/3b246c27-4196-4d90-93aa-13841ce0da22)
 
-- JavaScript![th](https://github.com/user-attachments/assets/9a83aee6-714d-481d-b1de-903ac3162d77)
+- JavaScript![th]  (https://github.com/user-attachments/assets/9a83aee6-714d-481d-b1de-903ac3162d77)
 
 
 ### Backend:
@@ -40,7 +40,7 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 
 
 ### Database:
-- MySQL  ![th](https://github.com/user-attachments/assets/20b57241-3439-4433-80c4-c5252baba4c4)
+- MySQL  ![th]   (https://github.com/user-attachments/assets/20b57241-3439-4433-80c4-c5252baba4c4)
 
 ### Tools:
 - Git & GitHub
@@ -91,10 +91,11 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 
 
 ### ProfilePage:
-![Profile](https://github.com/user-attachments/assets/0c6263d0-eb4c-4766-9b87-a3cc3327967e)
+![Profile]  (https://github.com/user-attachments/assets/0c6263d0-eb4c-4766-9b87-a3cc3327967e)
 
 
 ### Admin Dashboard:
+
 ![WhatsApp Image 2024-09-19 at 18 39 04_f8159ac1](https://github.com/user-attachments/assets/4faeccbe-ecc1-44fc-ba37-9c178d9cb9c9)
 
 ![t](path/to/admin-dashboard-screenshot.png) <!-- Replace with actual image path -->
