@@ -26,16 +26,21 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 ## 🔧 Technologies & Tools Used
 
 ### Frontend:
-- React.js
-- Tailwind CSS 
-- JavaScript
+- React.js![th](https://github.com/user-attachments/assets/76f1e264-33f8-4c54-bfe9-b200e327ab60)
+
+- Tailwind CSS ![th](https://github.com/user-attachments/assets/3b246c27-4196-4d90-93aa-13841ce0da22)
+
+- JavaScript![th](https://github.com/user-attachments/assets/9a83aee6-714d-481d-b1de-903ac3162d77)
+
 
 ### Backend:
-- Node.js
-- Express.js
+- Node.js![th](https://github.com/user-attachments/assets/01a86069-887a-4e8b-9958-df20c7204b4e)
+
+- Express.js![th](https://github.com/user-attachments/assets/8d5a816b-d7ff-4f47-ae1a-9d42dc62fbb7)
+
 
 ### Database:
-- MySQL
+- MySQL  ![th](https://github.com/user-attachments/assets/20b57241-3439-4433-80c4-c5252baba4c4)
 
 ### Tools:
 - Git & GitHub
@@ -142,4 +147,4 @@ Feel free to reach out for collaboration or to learn more about the project:
 
 - **Email**: [shivghyar538@gmail.com](mailto:shivghyar538@gmail.com)
 - **GitHub**: [GitHub Profile](https://github.com/shiv-1540)
-- **Linkdein**: [Linkdein Profile]([https://github.com/shiv-1540](https://www.linkedin.com/in/shivshankar-ghyar-870972289))
+- **Linkdein**: [Linkdein Profile](https://www.linkedin.com/in/shivshankar-ghyar-870972289)
