@@ -22,6 +22,8 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 4. **Real-time Updates for Seamless Content Management**
 
 ---
+## Demonstartion Video 
+- **https://drive.google.com/file/d/1iEDCNORDlHuyZCgx2IQwMc3D3HekdNmp/view?usp=sharing**
 
 ## 🔧 Technologies & Tools Used
 
@@ -40,7 +42,7 @@ LITARCPAGES is a comprehensive blogging platform designed with the following fun
 
 
 ### Database:
-- MySQL  ![th]   (https://github.com/user-attachments/assets/20b57241-3439-4433-80c4-c5252baba4c4)
+- MySQL![th](https://github.com/user-attachments/assets/20b57241-3439-4433-80c4-c5252baba4c4)
 
 ### Tools:
 - Git & GitHub
